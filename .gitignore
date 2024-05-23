@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# env
+.env
+
+# Sequelize
+config/config.json
+seeders/
+
+
